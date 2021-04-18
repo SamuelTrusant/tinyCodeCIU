@@ -4,7 +4,7 @@ Un sketch creativo para la entrega 8 de CIU
 
 Autor: Samuel Trujillo Santana
 
-ENLACE A J5 para ejecutar el sketch: https://editor.p5js.org/SamuelTrusant/full/mTtc92G5D
+Enlace a J5 para ejecutar el sketch: https://editor.p5js.org/SamuelTrusant/full/mTtc92G5D
 
 ## Descripción
 El sketch crea una matriz de squaresPerRow (una variable) cuadrados los cuales giran en distintas direcciones y en tiempos distintos, formando una ilusión
